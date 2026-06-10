@@ -1,5 +1,5 @@
 const CONFIG = {
-  name:        "Sally] Chen",
+  name:        "Sally Chen",
   initials:    "SC",
   title:       "Senior IT Engineer",
   org:         "IEI Integration Corp.",
